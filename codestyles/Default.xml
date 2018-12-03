@@ -1,0 +1,26 @@
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_TEXT" value="true" />
+  </HTMLCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
+    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+  </codeStyleSettings>
+</code_scheme>
