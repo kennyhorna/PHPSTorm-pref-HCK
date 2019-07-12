@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="pt" value="/** &#10;* @test&#10;* Test for: $DESC$&#10;*/&#10;public function $NAME$()&#10;{&#10;    &#10;    $this-&gt;markTestIncomplete('pending');$END$&#10;}" description="Test function" toReformat="false" toShortenFQNames="true">
+  <template name="pt" value="/** &#10;* @test&#10;* Test for: $DESC$&#10;*/&#10;public function $NAME$()&#10;{&#10;    &#10;    $this-&gt;markTestIncomplete('pending');$END$&#10;}" description="A simple PHP Test function" toReformat="false" toShortenFQNames="true">
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="capitalizeAndUnderscore(DESC)" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -12,7 +12,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pf" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="pf" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="A simple PHP Function" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
