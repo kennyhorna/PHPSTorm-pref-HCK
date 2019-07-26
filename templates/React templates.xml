@@ -9,6 +9,7 @@
     <variable name="NAME" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ES6_STATEMENT" value="true" />
+      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
