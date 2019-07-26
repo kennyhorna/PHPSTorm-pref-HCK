@@ -4,6 +4,7 @@
       <mapping pattern="Mocks" type="PHP" />
       <mapping pattern="components/menu.scss" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="DigitalTwinSection.js" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
