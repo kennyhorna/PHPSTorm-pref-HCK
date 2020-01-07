@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Mocks" type="PHP" />
       <mapping pattern="0'" type="PLAIN_TEXT" />
+      <mapping pattern="Pages/Auth/Login.jsx" type="PLAIN_TEXT" />
       <mapping pattern="components/menu.scss" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DigitalTwinSection.js" type="PLAIN_TEXT" />
