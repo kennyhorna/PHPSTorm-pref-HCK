@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="PHP">
-        <added pattern="\Illuminate\Database\Seeder.call(class,silent)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
