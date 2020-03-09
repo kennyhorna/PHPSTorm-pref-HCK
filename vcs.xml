@@ -10,11 +10,12 @@
           <option name="url" value="git@gitlab.com:Artifucio/Pichanga/Backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kennyhorna/kennyhorna-blog" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\HCK\Repositories" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
